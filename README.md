@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: June 01, 2020
+### Day 1: June 01, 2020
 
 **Today's Progress**:
 
@@ -20,7 +20,7 @@
 
 ---
 
-### Day 1: June 02, 2020
+### Day 2: June 02, 2020
 
 **Today's Progress**:
 
@@ -39,7 +39,7 @@
 - [JavaScript: The Advanced Concepts](https://www.udemy.com/share/101WiOAEUacVhRQHQ=/)
 - [Currying Read](https://javascript.info/currying-partials)
 
-### Day 2: June 03, 2020
+### Day 3: June 03, 2020
 
 **Today's Progress**:
 
@@ -57,4 +57,18 @@
 - [Today On GitHub](https://github.com/itsmarkodowd/Irish-Trad.net/commits/master)
 - [Irish-Trad.net](https://www.irish-trad.net)
 - [JavaScript: The Advanced Concepts](https://www.udemy.com/share/101WiOAEUacVhRQHQ=/)
+- [Alexa Skills](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill/module-1)
+
+### Day 4: June 04, 2020
+
+**Today's Progress**:
+
+- Following Amazon's Alexa Training Course that uses Node.js (Modules 2-4)
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
 - [Alexa Skills](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill/module-1)
