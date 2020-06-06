@@ -87,3 +87,20 @@
 **Links**:
 
 - [Alexa Skills](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill)
+
+### Day 6: June 06, 2020
+
+**Today's Progress**:
+
+- Working on my Alexa skill - invocation + distribution info
+- Worked on my website
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [Today On GitHub](https://github.com/itsmarkodowd/Irish-Trad.net/commits/master)
+- [Irish-Trad.net](https://www.irish-trad.net)
+- [Alexa Skills](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill)
