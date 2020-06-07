@@ -92,7 +92,7 @@
 
 **Today's Progress**:
 
-- Working on my Alexa skill - invocation + distribution info
+- Working on my Alexa skill - invocation + distribution info (Node.js)
 - Worked on my website
 
 **Work 9-5**:
@@ -104,3 +104,18 @@
 - [Today On GitHub](https://github.com/itsmarkodowd/Irish-Trad.net/commits/master)
 - [Irish-Trad.net](https://www.irish-trad.net)
 - [Alexa Skills](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill)
+
+### Day 7: June 07, 2020
+
+**Today's Progress**:
+
+- Finished Section 2 - JavaScript Foundation from JavaScript: The Advanced Concepts by @AndreiNeagoie learning about call stack,memory heap,runtime,etc
+- Watched 27-42 - JavaScript Foundation II from JavaScript: The Advanced Concepts
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [JavaScript: The Advanced Concepts](https://www.udemy.com/share/101WiOAEUacVhRQHQ=/)
