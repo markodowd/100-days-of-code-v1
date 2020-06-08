@@ -39,6 +39,8 @@
 - [JavaScript: The Advanced Concepts](https://www.udemy.com/share/101WiOAEUacVhRQHQ=/)
 - [Currying Read](https://javascript.info/currying-partials)
 
+---
+
 ### Day 3: June 03, 2020
 
 **Today's Progress**:
@@ -59,6 +61,8 @@
 - [JavaScript: The Advanced Concepts](https://www.udemy.com/share/101WiOAEUacVhRQHQ=/)
 - [Alexa Skills](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill)
 
+---
+
 ### Day 4: June 04, 2020
 
 **Today's Progress**:
@@ -72,6 +76,8 @@
 **Links**:
 
 - [Alexa Skills](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill/module-1)
+
+---
 
 ### Day 5: June 05, 2020
 
@@ -87,6 +93,8 @@
 **Links**:
 
 - [Alexa Skills](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill)
+
+---
 
 ### Day 6: June 06, 2020
 
@@ -105,6 +113,8 @@
 - [Irish-Trad.net](https://www.irish-trad.net)
 - [Alexa Skills](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill)
 
+---
+
 ### Day 7: June 07, 2020
 
 **Today's Progress**:
@@ -119,3 +129,26 @@
 **Links**:
 
 - [JavaScript: The Advanced Concepts](https://www.udemy.com/share/101WiOAEUacVhRQHQ=/)
+
+---
+
+### Day 8: June 08, 2020
+
+**Today's Progress**:
+
+- Finished JavaScript Foundation II from JavaScript: The Advanced Concepts
+- Making progress on my custom Alexa Skill (private repo)
+- Worked on my website
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Today On GitHub](https://github.com/itsmarkodowd/Irish-Trad.net/commits/master)
+- [Irish-Trad.net](https://www.irish-trad.net)
+- [JavaScript: The Advanced Concepts](https://www.udemy.com/share/101WiOAEUacVhRQHQ=/)
+- [Alexa Skills](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill)
+
+---
