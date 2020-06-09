@@ -137,8 +137,29 @@
 **Today's Progress**:
 
 - Finished JavaScript Foundation II from JavaScript: The Advanced Concepts
-- Making progress on my custom Alexa Skill (private repo)
+- Making progress on my custom Alexa Skill - Node.js (private repo)
 - Worked on my website
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Today On GitHub](https://github.com/itsmarkodowd/Irish-Trad.net/commits/master)
+- [Irish-Trad.net](https://www.irish-trad.net)
+- [JavaScript: The Advanced Concepts](https://www.udemy.com/share/101WiOAEUacVhRQHQ=/)
+- [Alexa Skills](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill)
+
+---
+
+### Day 9: June 09, 2020
+
+**Today's Progress**:
+
+- Finished Types in JavaScript from JavaScript: The Advanced Concepts
+- Made good progress on custom Alexa Skill - Node.js (private repo)
+- Progress on my website
 
 **Work 9-5**:
 
