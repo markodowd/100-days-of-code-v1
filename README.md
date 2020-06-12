@@ -213,3 +213,19 @@
 - [Alexa Skills](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill)
 
 ---
+
+### Day 12: June 12, 2020
+
+**Today's Progress**:
+
+- Learned about Prototypal Inheritance in JavaScript from JavaScript: The Advanced Concepts
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [JavaScript: The Advanced Concepts](https://www.udemy.com/share/101WiOAEUacVhRQHQ=/)
+
+---
