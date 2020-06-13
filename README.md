@@ -229,3 +229,21 @@
 - [JavaScript: The Advanced Concepts](https://www.udemy.com/share/101WiOAEUacVhRQHQ=/)
 
 ---
+
+### Day 13: June 13, 2020
+
+**Today's Progress**:
+
+- Made significant progress in content for my website
+- Deployed the recent progress on website to live
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [Today On GitHub](https://github.com/itsmarkodowd/Irish-Trad.net/commits/master)
+- [Irish-Trad.net](https://www.irish-trad.net)
+
+---
