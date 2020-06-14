@@ -234,8 +234,8 @@
 
 **Today's Progress**:
 
-- Made significant progress in content for my website
-- Deployed the recent progress on website to live
+- Made significant progress in content for website
+- Deployed the progress made over past 13 days to live
 
 **Work 9-5**:
 
@@ -245,5 +245,21 @@
 
 - [Today On GitHub](https://github.com/itsmarkodowd/Irish-Trad.net/commits/master)
 - [Irish-Trad.net](https://www.irish-trad.net)
+
+---
+
+### Day 14: June 14, 2020
+
+**Today's Progress**:
+
+- Finished Section Object Oriented Programming from JavaScript: The Advanced Concepts
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [JavaScript: The Advanced Concepts](https://www.udemy.com/share/101WiOAEUacVhRQHQ=/)
 
 ---
