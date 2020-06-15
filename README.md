@@ -263,3 +263,22 @@
 - [JavaScript: The Advanced Concepts](https://www.udemy.com/share/101WiOAEUacVhRQHQ=/)
 
 ---
+
+### Day 15: June 15, 2020
+
+**Today's Progress**:
+
+- Finished Section Functional Programming from JavaScript: The Advanced Concepts
+- Made some decent QoL improvements on website
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Today On GitHub](https://github.com/itsmarkodowd/Irish-Trad.net/commits/master)
+- [Irish-Trad.net](https://www.irish-trad.net)
+- [JavaScript: The Advanced Concepts](https://www.udemy.com/share/101WiOAEUacVhRQHQ=/)
+
+---
