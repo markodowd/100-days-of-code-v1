@@ -282,3 +282,22 @@
 - [JavaScript: The Advanced Concepts](https://www.udemy.com/share/101WiOAEUacVhRQHQ=/)
 
 ---
+
+### Day 16: June 16, 2020
+
+**Today's Progress**:
+
+- Started Section Asynchronous JavaScript from JavaScript: The Advanced Concepts
+- Little bit of progress on website
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Today On GitHub](https://github.com/itsmarkodowd/Irish-Trad.net/commits/master)
+- [Irish-Trad.net](https://www.irish-trad.net)
+- [JavaScript: The Advanced Concepts](https://www.udemy.com/share/101WiOAEUacVhRQHQ=/)
+
+---
