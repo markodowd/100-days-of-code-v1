@@ -288,7 +288,26 @@
 **Today's Progress**:
 
 - Started Section Asynchronous JavaScript from JavaScript: The Advanced Concepts
-- Little bit of progress on website
+- Decent progress on website - utility sorting function written in TS
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Today On GitHub](https://github.com/itsmarkodowd/Irish-Trad.net/commits/master)
+- [Irish-Trad.net](https://www.irish-trad.net)
+- [JavaScript: The Advanced Concepts](https://www.udemy.com/share/101WiOAEUacVhRQHQ=/)
+
+---
+
+### Day 17: June 17, 2020
+
+**Today's Progress**:
+
+- Finished Sections Modules & Error Handling from JavaScript: The Advanced Concepts
+- Decent QoL improvement to website - can filter tunes by tuning
 
 **Work 9-5**:
 
