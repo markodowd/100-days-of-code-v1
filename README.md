@@ -320,3 +320,19 @@
 - [JavaScript: The Advanced Concepts](https://www.udemy.com/share/101WiOAEUacVhRQHQ=/)
 
 ---
+
+### Day 18: June 18, 2020
+
+**Today's Progress**:
+
+- Finished JavaScript: The Advanced Concepts
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [JavaScript: The Advanced Concepts](https://www.udemy.com/share/101WiOAEUacVhRQHQ=/)
+
+---
