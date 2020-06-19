@@ -336,3 +336,19 @@
 - [JavaScript: The Advanced Concepts](https://www.udemy.com/share/101WiOAEUacVhRQHQ=/)
 
 ---
+
+### Day 19: June 19, 2020
+
+**Today's Progress**:
+
+- Improved mobile responsiveness for tablature section of website
+- Deployed past few days of QoL improvements live
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Today On GitHub](https://github.com/itsmarkodowd/Irish-Trad.net/commits/master)
+- [Irish-Trad.net](https://www.irish-trad.net)
