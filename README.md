@@ -352,3 +352,17 @@
 
 - [Today On GitHub](https://github.com/itsmarkodowd/Irish-Trad.net/commits/master)
 - [Irish-Trad.net](https://www.irish-trad.net)
+
+### Day 20: June 20, 2020
+
+**Today's Progress**:
+
+- Getting data for my Alexa App (private repo)
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [Alexa Skills](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill)
