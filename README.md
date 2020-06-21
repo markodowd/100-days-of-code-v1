@@ -366,3 +366,17 @@
 **Links**:
 
 - [Alexa Skills](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill)
+
+### Day 21: June 21, 2020
+
+**Today's Progress**:
+
+- Going through FreeCodeCamps Node/API section again. I want to start using full MERN stack on some project
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [FreeCodeCamp](https://www.freecodecamp.org/learn)
