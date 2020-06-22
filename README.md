@@ -380,3 +380,17 @@
 **Links**:
 
 - [FreeCodeCamp](https://www.freecodecamp.org/learn)
+
+### Day 22: June 22, 2020
+
+**Today's Progress**:
+
+- Testing for the API section on FreeCodeCamp is currently broken but I still went through the challanges and completed them
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [FreeCodeCamp](https://www.freecodecamp.org/learn)
