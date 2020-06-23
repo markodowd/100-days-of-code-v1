@@ -394,3 +394,17 @@
 **Links**:
 
 - [FreeCodeCamp](https://www.freecodecamp.org/learn)
+
+### Day 23: June 23, 2020
+
+**Today's Progress**:
+
+- Good progress on Alexa App - gathered plenty of data that will be used
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Alexa Skills](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill)
