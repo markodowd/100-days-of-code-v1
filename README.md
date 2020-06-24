@@ -408,3 +408,17 @@
 **Links**:
 
 - [Alexa Skills](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill)
+
+### Day 24: June 24, 2020
+
+**Today's Progress**:
+
+- Watched a good video tutorial on the MERN Stack on FreeCodeCamp's YouTube - Planning to build something with the same stack pretty soon
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [MERN Stack Tutorial](https://youtu.be/7CqJlxBYj-M)
