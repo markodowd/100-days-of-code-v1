@@ -353,6 +353,8 @@
 - [Today On GitHub](https://github.com/itsmarkodowd/Irish-Trad.net/commits/master)
 - [Irish-Trad.net](https://www.irish-trad.net)
 
+---
+
 ### Day 20: June 20, 2020
 
 **Today's Progress**:
@@ -366,6 +368,8 @@
 **Links**:
 
 - [Alexa Skills](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill)
+
+---
 
 ### Day 21: June 21, 2020
 
@@ -381,6 +385,8 @@
 
 - [FreeCodeCamp](https://www.freecodecamp.org/learn)
 
+---
+
 ### Day 22: June 22, 2020
 
 **Today's Progress**:
@@ -394,6 +400,8 @@
 **Links**:
 
 - [FreeCodeCamp](https://www.freecodecamp.org/learn)
+
+---
 
 ### Day 23: June 23, 2020
 
@@ -409,6 +417,8 @@
 
 - [Alexa Skills](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/get-deeper/tutorials-code-samples/build-an-engaging-alexa-skill)
 
+---
+
 ### Day 24: June 24, 2020
 
 **Today's Progress**:
@@ -422,3 +432,22 @@
 **Links**:
 
 - [MERN Stack Tutorial](https://youtu.be/7CqJlxBYj-M)
+
+---
+
+### Day 25: June 25, 2020
+
+**Today's Progress**:
+
+- Began working on a new but simple React project (private repo atm)
+- Aiming to make the most of React Bootstrap + Formik + FontAwesome
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [React Bootstrap](https://react-bootstrap.github.io/)
+
+---
