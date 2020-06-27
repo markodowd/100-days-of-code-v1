@@ -451,3 +451,35 @@
 - [React Bootstrap](https://react-bootstrap.github.io/)
 
 ---
+
+### Day 26: June 26, 2020
+
+**Today's Progress**:
+
+- A bit of progress on the new React project
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [React Bootstrap](https://react-bootstrap.github.io/)
+
+---
+
+### Day 27: June 27, 2020
+
+**Today's Progress**:
+
+- Was customising a lot of my React Bootstrap components so watched video comparing CSS aproaches
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [Vanilla CSS vs Bootstrap vs Tailwind CSS](https://www.youtube.com/watch?v=vmXIGdP8KN8)
+
+---
