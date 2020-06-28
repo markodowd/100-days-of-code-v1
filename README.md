@@ -483,3 +483,15 @@
 - [Vanilla CSS vs Bootstrap vs Tailwind CSS](https://www.youtube.com/watch?v=vmXIGdP8KN8)
 
 ---
+
+### Day 28: June 28, 2020
+
+**Today's Progress**:
+
+- Mobile design complete for project using React Bootstrap (will be able to show once complete)
+
+**Work 9-5**:
+
+- false
+
+---
