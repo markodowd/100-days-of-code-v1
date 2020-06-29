@@ -495,3 +495,23 @@
 - false
 
 ---
+
+### Day 29: June 29, 2020
+
+**Today's Progress**:
+
+- Reading up on testing (Jest & React Testing Library)
+- Added a lot of snapshot testing + basic title testing to my website
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Today On GitHub](https://github.com/itsmarkodowd/Irish-Trad.net/commits/master)
+- [React Testing Library](https://github.com/testing-library/react-testing-library)
+- [Jest Cheatsheet](https://github.com/sapegin/jest-cheat-sheet)
+- [Jest Custom Matchers](https://github.com/testing-library/jest-dom)
+
+---
