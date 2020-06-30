@@ -515,3 +515,19 @@
 - [Jest Custom Matchers](https://github.com/testing-library/jest-dom)
 
 ---
+
+### Day 30: June 30, 2020
+
+**Today's Progress**:
+
+- Working on responsive desktop style on recent React Bootstrap project
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [React Bootstrap](https://react-bootstrap.github.io/)
+
+---
