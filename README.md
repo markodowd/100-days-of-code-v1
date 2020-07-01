@@ -531,3 +531,21 @@
 - [React Bootstrap](https://react-bootstrap.github.io/)
 
 ---
+
+### Day 31: July 01, 2020
+
+**Today's Progress**:
+
+- Deployed a recent website fix to live
+- Reading Node docs so I can add Nodemailer to couple projects
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Official Node.JS Docs](https://nodejs.org/en/docs/guides/)
+- [W3Schools Node.JS Docs](https://www.w3schools.com/nodejs/default.asp)
+
+---
