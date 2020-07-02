@@ -549,3 +549,19 @@
 - [W3Schools Node.JS Docs](https://www.w3schools.com/nodejs/default.asp)
 
 ---
+
+### Day 32: July 02, 2020
+
+**Today's Progress**:
+
+- NodeMailer - Trying to get the right settings for an old email address
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [NodeMailer](https://nodemailer.com/about/)
+
+---
