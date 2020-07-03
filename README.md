@@ -565,3 +565,19 @@
 - [NodeMailer](https://nodemailer.com/about/)
 
 ---
+
+### Day 33: July 03, 2020
+
+**Today's Progress**:
+
+- Going Through FreeCodeCamp's new Python courses
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+
+---
