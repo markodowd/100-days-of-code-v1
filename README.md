@@ -581,3 +581,22 @@
 - [FreeCodeCamp](https://www.freecodecamp.org/)
 
 ---
+
+### Day 34: July 04, 2020
+
+**Today's Progress**:
+
+- Watched video on useReducer hook
+- Watched excellent video on NodeMailer
+- The problem I had with NodeMailer now fixed after the video - can start implementing into projects
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [useReducer - Web Simplified](https://www.youtube.com/watch?v=kK_Wqx3RnHk)
+- [NodeMailer - Traversy Media](https://www.youtube.com/watch?v=nF9g1825mwk)
+
+---
