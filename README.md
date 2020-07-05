@@ -600,3 +600,20 @@
 - [NodeMailer - Traversy Media](https://www.youtube.com/watch?v=nF9g1825mwk)
 
 ---
+
+### Day 35: July 05, 2020
+
+**Today's Progress**:
+
+- NodeMailer working with react-fetching-library on front-end of recent project - thanks to videos from yesterday
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [useContext - Web Simplified](https://www.youtube.com/watch?v=5LrDIWkK_Bc)
+- [React Fetching Library](https://marcin-piela.github.io/react-fetching-library/#/)
+
+---
