@@ -606,6 +606,7 @@
 **Today's Progress**:
 
 - NodeMailer working with react-fetching-library on front-end of recent project - thanks to videos from yesterday
+- Watched a Web Simplified video on useContext hook
 
 **Work 9-5**:
 
@@ -615,5 +616,24 @@
 
 - [useContext - Web Simplified](https://www.youtube.com/watch?v=5LrDIWkK_Bc)
 - [React Fetching Library](https://marcin-piela.github.io/react-fetching-library/#/)
+
+---
+
+### Day 36: July 06, 2020
+
+**Today's Progress**:
+
+- Improving/Cleaning up my express server - dotenv, etc
+- Watched video (Web Dev Simplified) on Project Setup - Node.js/Express/MongoDB
+- Started watching video on full MERN stack for 2nd time
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Web Simplified](https://www.youtube.com/watch?v=qj2oDkvc4dQ)
+- [Learn the MERN Stack](https://www.youtube.com/watch?v=7CqJlxBYj-M)
 
 ---
