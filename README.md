@@ -626,6 +626,7 @@
 - Improving/Cleaning up my express server - dotenv, etc
 - Watched video (Web Dev Simplified) on Project Setup - Node.js/Express/MongoDB
 - Started watching video on full MERN stack for 2nd time
+- Good read on Express best practices
 
 **Work 9-5**:
 
@@ -635,5 +636,19 @@
 
 - [Web Simplified](https://www.youtube.com/watch?v=qj2oDkvc4dQ)
 - [Learn the MERN Stack](https://www.youtube.com/watch?v=7CqJlxBYj-M)
+- [Express Best Practices](https://www.terlici.com/2014/08/25/best-practices-express-structure.html)
+
+---
+
+### Day 37: July 07, 2020
+
+**Today's Progress**:
+
+- Creating Contact Form using Formik, Yup, React-Fetching-Library
+- Duplicating NodeMailer Express server from previous days to handle request
+
+**Work 9-5**:
+
+- true
 
 ---
