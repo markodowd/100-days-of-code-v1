@@ -652,3 +652,19 @@
 - true
 
 ---
+
+### Day 38: July 08, 2020
+
+**Today's Progress**:
+
+- Completed the Quality Assurance with Chai Challenges on FreeCodeCamp
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [FreeCodeCamp](https://www.freecodecamp.org/learn)
+
+---
