@@ -668,3 +668,22 @@
 - [FreeCodeCamp](https://www.freecodecamp.org/learn)
 
 ---
+
+### Day 39: July 09, 2020
+
+**Today's Progress**:
+
+- Decided I would sponsor FreeCodeCamp through GitHub after they have provided me with so much valuable resources
+- Added the README repo to my github page that people have been talking about recently
+- Working through FreeCodeCamp's Advanced Node and Express Section 6/22
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [My GitHub](https://github.com/itsmarkodowd)
+- [FreeCodeCamp](https://www.freecodecamp.org/learn)
+
+---
