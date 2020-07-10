@@ -687,3 +687,19 @@
 - [FreeCodeCamp](https://www.freecodecamp.org/learn)
 
 ---
+
+### Day 40: July 10, 2020
+
+**Today's Progress**:
+
+- Continued through FreeCodeCamp's Advanced Node and Express Section
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [FreeCodeCamp](https://www.freecodecamp.org/learn)
+
+---
