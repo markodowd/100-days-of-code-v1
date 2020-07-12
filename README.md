@@ -719,3 +719,19 @@
 - [FreeCodeCamp](https://www.freecodecamp.org/learn)
 
 ---
+
+### Day 42: July 12, 2020
+
+**Today's Progress**:
+
+- Finished FreeCodeCamp's Advanced Node and Express Section
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [FreeCodeCamp](https://www.freecodecamp.org/learn)
+
+---
