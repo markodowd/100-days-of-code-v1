@@ -735,3 +735,19 @@
 - [FreeCodeCamp](https://www.freecodecamp.org/learn)
 
 ---
+
+### Day 43: July 13, 2020
+
+**Today's Progress**:
+
+- Starting to build an express server for website
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [Irish-Trad.net](https://www.irish-trad.net)
+
+---
