@@ -751,3 +751,19 @@
 - [Irish-Trad.net](https://www.irish-trad.net)
 
 ---
+
+### Day 44: July 14, 2020
+
+**Today's Progress**:
+
+- Started the Scientific Computing with Python section of FreeCodeCamp
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [FreeCodeCamp](https://www.freecodecamp.org/learn)
+
+---
