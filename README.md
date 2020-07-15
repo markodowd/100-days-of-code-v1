@@ -767,3 +767,19 @@
 - [FreeCodeCamp](https://www.freecodecamp.org/learn)
 
 ---
+
+### Day 45: July 15, 2020
+
+**Today's Progress**:
+
+- Continued the Scientific Computing with Python section of FreeCodeCamp
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [FreeCodeCamp](https://www.freecodecamp.org/learn)
+
+---
