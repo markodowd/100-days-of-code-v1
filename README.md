@@ -783,3 +783,19 @@
 - [FreeCodeCamp](https://www.freecodecamp.org/learn)
 
 ---
+
+### Day 46: July 16, 2020
+
+**Today's Progress**:
+
+- Continued the Scientific Computing with Python section of FreeCodeCamp
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [FreeCodeCamp](https://www.freecodecamp.org/learn)
+
+---
