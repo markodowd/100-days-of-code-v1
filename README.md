@@ -799,3 +799,19 @@
 - [FreeCodeCamp](https://www.freecodecamp.org/learn)
 
 ---
+
+### Day 47: July 17, 2020
+
+**Today's Progress**:
+
+- Continuing (relaxed pace) the Scientific Computing with Python section of FreeCodeCamp
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [FreeCodeCamp](https://www.freecodecamp.org/learn)
+
+---
