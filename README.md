@@ -831,3 +831,19 @@
 - [FreeCodeCamp](https://www.freecodecamp.org/learn)
 
 ---
+
+### Day 49: July 19, 2020
+
+**Today's Progress**:
+
+- 27/56 through Scientific Computing with Python section of FreeCodeCamp
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [FreeCodeCamp](https://www.freecodecamp.org/learn)
+
+---
