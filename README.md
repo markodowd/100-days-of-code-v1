@@ -863,3 +863,19 @@
 - [FreeCodeCamp](https://www.freecodecamp.org/learn)
 
 ---
+
+### Day 51: July 21, 2020
+
+**Today's Progress**:
+
+- Finished watching the Scientific Computing with Python section of FreeCodeCamp (56/56)
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [FreeCodeCamp](https://www.freecodecamp.org/learn)
+
+---
