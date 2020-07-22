@@ -856,7 +856,7 @@
 
 **Work 9-5**:
 
-- false
+- true
 
 **Links**:
 
@@ -872,10 +872,26 @@
 
 **Work 9-5**:
 
-- false
+- true
 
 **Links**:
 
 - [FreeCodeCamp](https://www.freecodecamp.org/learn)
+
+---
+
+### Day 52: July 22, 2020
+
+**Today's Progress**:
+
+- Started doing Python challanges on CodeWars after finishing the previous Python course
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [CodeWars](https://www.codewars.com/dashboard)
 
 ---
