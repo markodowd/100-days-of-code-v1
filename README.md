@@ -895,3 +895,19 @@
 - [CodeWars](https://www.codewars.com/dashboard)
 
 ---
+
+### Day 53: July 23, 2020
+
+**Today's Progress**:
+
+- Completed few more Python challanges on CodeWars
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [CodeWars](https://www.codewars.com/dashboard)
+
+---
