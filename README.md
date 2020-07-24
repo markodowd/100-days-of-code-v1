@@ -911,3 +911,17 @@
 - [CodeWars](https://www.codewars.com/dashboard)
 
 ---
+
+### Day 54: July 24, 2020
+
+**Today's Progress**:
+
+- Startied to chip away at first project of the Python projects on FreeCodeCamp
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [FreeCodeCamp](https://www.freecodecamp.org/learn)
