@@ -925,3 +925,21 @@
 **Links**:
 
 - [FreeCodeCamp](https://www.freecodecamp.org/learn)
+
+---
+
+### Day 55: July 25, 2020
+
+**Today's Progress**:
+
+- Continuing to work on Python project for FreeCodeCamp
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [FreeCodeCamp](https://www.freecodecamp.org/learn)
+
+---
