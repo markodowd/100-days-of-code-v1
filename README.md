@@ -943,3 +943,19 @@
 - [FreeCodeCamp](https://www.freecodecamp.org/learn)
 
 ---
+
+### Day 56: July 26, 2020
+
+**Today's Progress**:
+
+- Completed easy Python challange on CodeWars
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [CodeWars](https://www.codewars.com/dashboard)
+
+---
