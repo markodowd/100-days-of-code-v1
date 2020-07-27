@@ -959,3 +959,21 @@
 - [CodeWars](https://www.codewars.com/dashboard)
 
 ---
+
+### Day 57: July 27, 2020
+
+**Today's Progress**:
+
+- Watching YouTube video Build an Online Store Using AWS, React, and Stripe
+- Little bit of work on my website
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Build an Online Store Using AWS, React, and Stripe](https://www.codewars.com/dashboard)
+- [Today On GitHub](https://github.com/itsmarkodowd/Irish-Trad.net/commits/master)
+
+---
