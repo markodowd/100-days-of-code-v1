@@ -977,3 +977,19 @@
 - [Today On GitHub](https://github.com/itsmarkodowd/Irish-Trad.net/commits/master)
 
 ---
+
+### Day 58: July 28, 2020
+
+**Today's Progress**:
+
+- Reading Heroku docs to see if it will suit as host for my nodemailer express server
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Heroku NodeJS Docs](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
+
+---
