@@ -993,3 +993,21 @@
 - [Heroku NodeJS Docs](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
 
 ---
+
+### Day 59: July 29, 2020
+
+**Today's Progress**:
+
+- Integrated the GitHub repo for express server for auto deployment to Heroku
+- Started watching Data Analysis with Python Course on FreeCodeCamp
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Heroku NodeJS Docs](https://devcenter.heroku.com/articles/getting-started-with-nodejs)
+- [FreeCodeCamp Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/introduction-to-data-analysis)
+
+---
