@@ -1011,3 +1011,19 @@
 - [FreeCodeCamp Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/introduction-to-data-analysis)
 
 ---
+
+### Day 60: July 30, 2020
+
+**Today's Progress**:
+
+- Continued watching Data Analysis with Python Course on FreeCodeCamp
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [FreeCodeCamp Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/introduction-to-data-analysis)
+
+---
