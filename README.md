@@ -1016,7 +1016,23 @@
 
 **Today's Progress**:
 
-- Continued watching Data Analysis with Python Course on FreeCodeCamp
+- Continued watching Data Analysis with Python Course on FreeCodeCamp (8/28)
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [FreeCodeCamp Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/introduction-to-data-analysis)
+
+---
+
+### Day 61: July 31, 2020
+
+**Today's Progress**:
+
+- Finished the NumPy section of Data Analysis with Python Course on FreeCodeCamp (12/28)
 
 **Work 9-5**:
 
