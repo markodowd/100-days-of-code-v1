@@ -1043,3 +1043,19 @@
 - [FreeCodeCamp Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/introduction-to-data-analysis)
 
 ---
+
+### Day 62: August 01, 2020
+
+**Today's Progress**:
+
+- Finished the Pandas section of Data Analysis with Python Course on FreeCodeCamp (17/28)
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [FreeCodeCamp Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/introduction-to-data-analysis)
+
+---
