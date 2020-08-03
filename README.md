@@ -1077,3 +1077,21 @@
 - [FreeCodeCamp Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/introduction-to-data-analysis)
 
 ---
+
+### Day 63: August 03, 2020
+
+**Today's Progress**:
+
+- Watched the NumPy videos in Data Analysis with Python section on FreeCodeCamp (9/9)
+- Started first project of the Data Analysis with Python section and probably about 90% finished it.
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [TodayOnGitHub](https://github.com/itsmarkodowd/FreeCodeCamp-Challanges/commit/f28cd0be80e74ccf24e6767da7a7a62a8e79d6d7#diff-a61742661b4cc7dd25e72ae45fd3b8e2)
+- [FreeCodeCamp Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/introduction-to-data-analysis)
+
+---
