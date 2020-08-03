@@ -1032,7 +1032,7 @@
 
 **Today's Progress**:
 
-- Finished the NumPy videos of Data Analysis with Python Course on FreeCodeCamp (12/28)
+- Finished the NumPy section of Data Analysis with Python Course on FreeCodeCamp (12/28)
 
 **Work 9-5**:
 
@@ -1048,27 +1048,11 @@
 
 **Today's Progress**:
 
-- Finished the Pandas videos of Data Analysis with Python Course on FreeCodeCamp (17/28)
+- Finished the Pandas section of Data Analysis with Python Course on FreeCodeCamp (17/28)
 
 **Work 9-5**:
 
-- false
-
-**Links**:
-
-- [FreeCodeCamp Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/introduction-to-data-analysis)
-
----
-
-### Day 63: August 02, 2020
-
-**Today's Progress**:
-
-- Finished the Data Analysis with Python section on FreeCodeCamp (28/28)
-
-**Work 9-5**:
-
-- false
+- true
 
 **Links**:
 
