@@ -1089,7 +1089,24 @@
 
 **Links**:
 
-- [TodayOnGitHub](https://github.com/itsmarkodowd/FreeCodeCamp-Challanges/commit/f28cd0be80e74ccf24e6767da7a7a62a8e79d6d7#diff-a61742661b4cc7dd25e72ae45fd3b8e2)
+- [Today On GitHub](https://github.com/itsmarkodowd/FreeCodeCamp-Challanges/commit/f28cd0be80e74ccf24e6767da7a7a62a8e79d6d7#diff-a61742661b4cc7dd25e72ae45fd3b8e2)
 - [FreeCodeCamp Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-course/introduction-to-data-analysis)
+
+---
+
+### Day 65: August 04, 2020
+
+**Today's Progress**:
+
+- Finished the first project of the Data Analysis with Python Certification.
+- Started working on the second project. Only about 10% done so far. This one will take me longer to complete and i'll need to rewatch some of the Pandas section.
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Demographic Data Analyzer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer)
 
 ---
