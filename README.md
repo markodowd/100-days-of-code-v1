@@ -1110,3 +1110,19 @@
 - [Demographic Data Analyzer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer)
 
 ---
+
+### Day 66: August 05, 2020
+
+**Today's Progress**:
+
+- Working on second Data Analysis with Python Certification project. Now 20% complete.
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Demographic Data Analyzer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer)
+
+---
