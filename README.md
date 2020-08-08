@@ -1158,3 +1158,21 @@
 - [Demographic Data Analyzer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer)
 
 ---
+
+### Day 69: August 08, 2020
+
+**Today's Progress**:
+
+- Spent good amount of time trying to solve last 25% of this second Data Analysis with Python Certification project.
+- Reading through official Pandas docs and some articles to see if I'm approaching it wrong.
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Demographic Data Analyzer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer)
+- -[Pandas Article](https://www.freecodecamp.org/news/the-ultimate-guide-to-the-pandas-library-for-data-science-in-python/)
+
+---
