@@ -1168,11 +1168,28 @@
 
 **Work 9-5**:
 
-- true
+- false
 
 **Links**:
 
 - [Demographic Data Analyzer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer)
 - -[Pandas Article](https://www.freecodecamp.org/news/the-ultimate-guide-to-the-pandas-library-for-data-science-in-python/)
+
+---
+
+### Day 70: August 09, 2020
+
+**Today's Progress**:
+
+- Have answered 8/9 (88%) of the second Data Analysis with Python Certification project.
+- Struggling on last part of the project. Can't seem to figure out the correct order to grab the data.
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [Demographic Data Analyzer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer)
 
 ---
