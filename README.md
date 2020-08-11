@@ -1194,7 +1194,7 @@
 
 ---
 
-### Day 71: August 09, 2020
+### Day 71: August 10, 2020
 
 **Today's Progress**:
 
@@ -1209,5 +1209,22 @@
 **Links**:
 
 - [Demographic Data Analyzer](https://www.freecodecamp.org/learn/data-analysis-with-python/data-analysis-with-python-projects/demographic-data-analyzer)
+
+---
+
+### Day 72: August 11, 2020
+
+**Today's Progress**:
+
+- Taking a break from the Python Data Analysis projects been working on recently
+- Started and made good progress on the Data Visualization With D3 section of FreeCodeCamp (23/29)
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Data Visualization With D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/)
 
 ---
