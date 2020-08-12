@@ -1228,3 +1228,19 @@
 - [Data Visualization With D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/)
 
 ---
+
+### Day 73: August 12, 2020
+
+**Today's Progress**:
+
+- Watched really good React with Typescript Tutorial by weibenfalk
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [React / Typescript Tutorial - Build a Quiz App](https://youtu.be/F2JCjVSZlG0)
+
+---
