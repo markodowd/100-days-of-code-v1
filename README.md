@@ -1260,3 +1260,15 @@
 - [Data Visualization With D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/)
 
 ---
+
+### Day 75: August 13, 2020
+
+**Today's Progress**:
+
+- Started a major redesign of the desktop layout of my website
+
+**Work 9-5**:
+
+- true
+
+---
