@@ -1272,3 +1272,15 @@
 - true
 
 ---
+
+### Day 76: August 14, 2020
+
+**Today's Progress**:
+
+- Went through the JSON API's and AJAX section on FreeCodeCamp (10/10)
+
+**Work 9-5**:
+
+- true
+
+---
