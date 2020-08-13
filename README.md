@@ -1244,3 +1244,19 @@
 - [React / Typescript Tutorial - Build a Quiz App](https://youtu.be/F2JCjVSZlG0)
 
 ---
+
+### Day 74: August 12, 2020
+
+**Today's Progress**:
+
+- Finished the Data Visualization With D3 section on FreeCodeCamp
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Data Visualization With D3](https://www.freecodecamp.org/learn/data-visualization/data-visualization-with-d3/)
+
+---
