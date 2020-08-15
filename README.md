@@ -1283,4 +1283,24 @@
 
 - true
 
+**Links**:
+
+- [JSON API's and AJAX](https://www.freecodecamp.org/learn/data-visualization/json-apis-and-ajax/)
+
+---
+
+### Day 77: August 15, 2020
+
+**Today's Progress**:
+
+- Information Security with HelmetJS section on FreeCodeCamp (14/14)
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [Information Security with HelmetJS](https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/)
+
 ---
