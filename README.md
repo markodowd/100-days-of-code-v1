@@ -1304,3 +1304,19 @@
 - [Information Security with HelmetJS](https://www.freecodecamp.org/learn/information-security/information-security-with-helmetjs/)
 
 ---
+
+### Day 78: August 16, 2020
+
+**Today's Progress**:
+
+- Python for Penetration Testing section on FreeCodeCamp (7/7)
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [Python for Penetration Testing](https://www.freecodecamp.org/learn/information-security/python-for-penetration-testing/)
+
+---
