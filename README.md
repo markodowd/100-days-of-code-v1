@@ -1320,3 +1320,19 @@
 - [Python for Penetration Testing](https://www.freecodecamp.org/learn/information-security/python-for-penetration-testing/)
 
 ---
+
+### Day 79: August 17, 2020
+
+**Today's Progress**:
+
+- Started working on the first project of the APIs and Microservices Project section on FreeCodeCamp
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Timestamp Microservice Project](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice)
+
+---
