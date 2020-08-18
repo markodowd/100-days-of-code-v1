@@ -1336,3 +1336,15 @@
 - [Timestamp Microservice Project](https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/timestamp-microservice)
 
 ---
+
+### Day 80: August 18, 2020
+
+**Today's Progress**:
+
+- Redesigning the desktop appearance of my Irish-Trad.net website
+
+**Work 9-5**:
+
+- true
+
+---
