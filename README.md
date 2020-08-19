@@ -1348,3 +1348,15 @@
 - true
 
 ---
+
+### Day 81: August 19, 2020
+
+**Today's Progress**:
+
+- Redesigning the desktop appearance of my Irish-Trad.net website
+
+**Work 9-5**:
+
+- true
+
+---
