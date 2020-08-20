@@ -1360,3 +1360,16 @@
 - true
 
 ---
+
+### Day 82: August 20, 2020
+
+**Today's Progress**:
+
+- Converted all .js files over to TypeScript TS/TSX - exposed a couple of problems right away
+- Continued working on redesign of website
+
+**Work 9-5**:
+
+- true
+
+---
