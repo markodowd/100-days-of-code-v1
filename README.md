@@ -1372,4 +1372,24 @@
 
 - true
 
+**Links**:
+
+- [Today On GitHub](https://github.com/itsmarkodowd/Irish-Trad.net/commit/34c5343ef854e09ba73646a433454004aefb6605)
+
+---
+
+### Day 83: August 21, 2020
+
+**Today's Progress**:
+
+- Focusing on TypeScript revisiting the topic on Udemy
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Udemy - Junior to Senior](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap)
+
 ---
