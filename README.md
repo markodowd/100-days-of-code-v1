@@ -1393,3 +1393,19 @@
 - [Udemy - Junior to Senior](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap)
 
 ---
+
+### Day 84: August 22, 2020
+
+**Today's Progress**:
+
+- Finished Code Analysis section from @AndreiNeagoie's Udemy course
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [Udemy - Junior to Senior](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap)
+
+---
