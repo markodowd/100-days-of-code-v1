@@ -1409,3 +1409,19 @@
 - [Udemy - Junior to Senior](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap)
 
 ---
+
+### Day 85: August 23, 2020
+
+**Today's Progress**:
+
+- Started learning about Docker through @AndreiNeagoie's Udemy course
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [Udemy - Junior to Senior](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap)
+
+---
