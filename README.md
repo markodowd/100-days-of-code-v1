@@ -1441,3 +1441,19 @@
 - [Udemy - Junior to Senior](https://www.udemy.com/course/the-complete-junior-to-senior-web-developer-roadmap)
 
 ---
+
+### Day 87: August 25, 2020
+
+**Today's Progress**:
+
+- Continuing to cemment knowledge of TypeScript and its use in React watching video
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [TypeScript Tutorial - TypeScript for React](https://youtu.be/NjN00cM18Z4)
+
+---
