@@ -1457,3 +1457,15 @@
 - [TypeScript Tutorial - TypeScript for React](https://youtu.be/NjN00cM18Z4)
 
 ---
+
+### Day 88: August 26, 2020
+
+**Today's Progress**:
+
+- Upgrading a projcet to use TypeScript 4.0 and working on a desktop redesign
+
+**Work 9-5**:
+
+- false
+
+---
