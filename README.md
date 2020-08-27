@@ -1469,3 +1469,19 @@
 - false
 
 ---
+
+### Day 89: August 27, 2020
+
+**Today's Progress**:
+
+- Started learning about TensorFlow on FreeCodeCamp (6/32)
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [TensorFlow](https://www.freecodecamp.org/learn/machine-learning-with-python/tensorflow/)
+
+---
