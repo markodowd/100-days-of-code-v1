@@ -1485,3 +1485,19 @@
 - [TensorFlow](https://www.freecodecamp.org/learn/machine-learning-with-python/tensorflow/)
 
 ---
+
+### Day 90: August 28, 2020
+
+**Today's Progress**:
+
+- Brushing up on Testing in React - watching @AndreiNeagoie React course
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [Complete React Udemy](https://www.udemy.com/course/complete-react-developer-zero-to-mastery)
+
+---
