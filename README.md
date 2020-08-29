@@ -1501,3 +1501,15 @@
 - [Complete React Udemy](https://www.udemy.com/course/complete-react-developer-zero-to-mastery)
 
 ---
+
+### Day 91: August 29, 2020
+
+**Today's Progress**:
+
+- Working on desktop redesign of a project
+
+**Work 9-5**:
+
+- false
+
+---
