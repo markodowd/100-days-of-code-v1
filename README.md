@@ -1513,3 +1513,19 @@
 - false
 
 ---
+
+### Day 92: August 30, 2020
+
+**Today's Progress**:
+
+- Finished the testing section of @AndreiNeagoie's React course
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [Complete React Udemy](https://www.udemy.com/course/complete-react-developer-zero-to-mastery)
+
+---
