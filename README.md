@@ -1529,3 +1529,16 @@
 - [Complete React Udemy](https://www.udemy.com/course/complete-react-developer-zero-to-mastery)
 
 ---
+
+### Day 93: August 31, 2020
+
+**Today's Progress**:
+
+- Significant progress on website redesign
+- Made a Scroll To Top button in React
+
+**Work 9-5**:
+
+- false
+
+---
