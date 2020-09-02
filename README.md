@@ -1543,12 +1543,28 @@
 
 ---
 
-### Day 94: September 1, 2020
+### Day 94: September 01, 2020
 
 **Today's Progress**:
 
 - Learning about webpack + babel setup under the hood compared to letting CRA do it
 - Revisiting Styled Components to see what else can be done with it
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Complete React Udemy](https://www.udemy.com/course/complete-react-developer-zero-to-mastery)
+
+---
+
+### Day 95: September 02, 2020
+
+**Today's Progress**:
+
+- Rewatching the building of a project so see how it compares now with Hooks
 
 **Work 9-5**:
 
