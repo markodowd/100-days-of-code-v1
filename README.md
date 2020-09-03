@@ -1575,3 +1575,19 @@
 - [Complete React Udemy](https://www.udemy.com/course/complete-react-developer-zero-to-mastery)
 
 ---
+
+### Day 96: September 03, 2020
+
+**Today's Progress**:
+
+- Revisiting SaSS and React Router for things I might have overlooked (withRouter)
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Complete React Udemy](https://www.udemy.com/course/complete-react-developer-zero-to-mastery)
+
+---
