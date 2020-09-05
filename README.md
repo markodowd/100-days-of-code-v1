@@ -1607,3 +1607,20 @@
 - [Complete React Udemy](https://www.udemy.com/course/complete-react-developer-zero-to-mastery)
 
 ---
+
+### Day 98: September 05, 2020
+
+**Today's Progress**:
+
+- Continued learning about Firebase for authorisation and storage
+- Playing with TypeScript to get more comfortable with it
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [Complete React Udemy](https://www.udemy.com/course/complete-react-developer-zero-to-mastery)
+
+---
