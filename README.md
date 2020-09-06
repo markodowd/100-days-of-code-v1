@@ -1624,3 +1624,23 @@
 - [Complete React Udemy](https://www.udemy.com/course/complete-react-developer-zero-to-mastery)
 
 ---
+
+### Day 99: September 06, 2020
+
+**Today's Progress**:
+
+- Read excellent article explaining why React re-renders twice during development
+- Watched practical video on using React with TypeScript
+- Learning Redux again - haven't used it in maybe a year and want to see how it compares to the Hook versions
+
+**Work 9-5**:
+
+- false
+
+**Links**:
+
+- [Why React Renders Twice During Dev](https://mariosfakiolas.com/blog/my-react-components-render-twice-and-drive-me-crazy/)
+- [Complete React Udemy](https://www.udemy.com/course/complete-react-developer-zero-to-mastery)
+- [Ultimate React Component Patterns with TypeScript](https://youtu.be/_PBQ3if6Fmg)
+
+---
