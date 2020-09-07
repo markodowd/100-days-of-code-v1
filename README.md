@@ -1644,3 +1644,19 @@
 - [Ultimate React Component Patterns with TypeScript](https://youtu.be/_PBQ3if6Fmg)
 
 ---
+
+### Day 100: September 07, 2020
+
+**Today's Progress**:
+
+- Finished watching section on Redux. I understand and follow the flow so much better now compared to the first time seeing it over a year ago.
+
+**Work 9-5**:
+
+- true
+
+**Links**:
+
+- [Complete React Udemy](https://www.udemy.com/course/complete-react-developer-zero-to-mastery)
+
+---
